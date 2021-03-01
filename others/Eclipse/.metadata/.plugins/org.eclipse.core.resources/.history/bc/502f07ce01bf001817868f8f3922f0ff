@@ -1,0 +1,17 @@
+package booksAndAuthors;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+public class LibraryDatabase {
+	public void connectToAndQueryDatabase() throws SQLException {
+
+	    @SuppressWarnings("unused")
+		Connection con = DriverManager.getConnection(
+	                         "jdbc:myDriver:myDatabase,LibraryDatabase");
+	    Statement stmt = con.createStatement();
+	}
+}
+
+

@@ -1,0 +1,33 @@
+package booksAndAuthors;
+
+public class AuthorSql {
+	public static String creatTable() {
+		return "CREATE TABLE Author ("
+		+ "ID int not null primary key"
+		+ " GENERATED ALWAYS AS IDENTITY"
+		+ " (START WITH 1, INCREMENT BY 1),"
+		+ "FirstName varchar(255)," 
+		+ "LastName varchar(255)," 
+		+ "BirthYear int,";
+		}
+
+		public static String fillTable() {
+		return "INSERT INTO Author (Title, PublishedYear, Genre, Publisher) VALUES "
+		+ "('Harry potter I', 1997, 'Fantasy', 'Bloomsbury'),"
+		+ "('Alice In Wonderland', 1871, 'Advanture', 'Macmillan'),"
+		+ "('Seriously...I'm Kidding', 2011, 'Autobiography', 'Grand Central publishing'),"
+		+ "('Calvin and Hobbes', 1985, 'Comic', 'Andrews McMeel Publishing'),"
+		+ "('Diary of a Wimpy Kid', 2007, 'Comedy, 'Amulet Books')";
+		}
+
+		public static String dropTable() {
+		return "DROP TABLE Author";
+		}
+
+		//- - - - - - - - - - -Query Statements - - - - - - - - - 
+
+		public static String queryAll() {
+		return "SELECT * FROM Author ";
+		}
+
+}

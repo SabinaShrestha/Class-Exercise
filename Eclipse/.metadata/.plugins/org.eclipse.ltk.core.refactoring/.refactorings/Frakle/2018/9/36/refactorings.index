@@ -1,0 +1,14 @@
+1536183759632	Move compilation unit
+1536183776846	Move compilation unit
+1536429041529	Rename field 'playerScore'
+1536433017672	Rename local variable 'panelTitle'
+1536433054854	Extract method 'createContentPane'
+1536434872787	Convert local variable 'lblPlayerScore' to field
+1536434926761	Convert local variable 'lblComputerScore' to field
+1536435473014	Convert local variable 'btnDieOne' to field
+1536435495920	Convert local variable 'btnDieTwo' to field
+1536435509160	Convert local variable 'btnDieThree' to field
+1536435522219	Convert local variable 'btnDieFour' to field
+1536435534870	Convert local variable 'btnDiefive' to field
+1536435547843	Convert local variable 'btnDiesix' to field
+1536436034340	Extract method 'changeDiceText'

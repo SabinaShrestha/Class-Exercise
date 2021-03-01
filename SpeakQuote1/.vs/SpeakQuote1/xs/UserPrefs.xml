@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9C257B96-699F-4D4D-804E-1BD85BD0D3F1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpeakQuote1/Program.cs">
+    <Files>
+      <File FileName="SpeakQuote1/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SpeakQuote1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

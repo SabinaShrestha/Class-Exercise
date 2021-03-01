@@ -1,0 +1,17 @@
+package PointList;
+
+/**
+ * Linked list of Points
+ * @author sabinashrestha
+ *
+ */
+public class PointList {
+	private Node head;
+	private Node tail;
+	private int size;
+	
+	private class Node {
+		private Point item;
+		private Node next;
+	}
+}

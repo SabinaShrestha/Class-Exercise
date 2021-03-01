@@ -1,0 +1,6 @@
+H:\2410\ClassExercise\SpeakQuote1\SpeakQuote1\bin\Debug\SpeakQuote1.exe.config
+H:\2410\ClassExercise\SpeakQuote1\SpeakQuote1\bin\Debug\SpeakQuote1.exe
+H:\2410\ClassExercise\SpeakQuote1\SpeakQuote1\bin\Debug\SpeakQuote1.pdb
+H:\2410\ClassExercise\SpeakQuote1\SpeakQuote1\obj\Debug\SpeakQuote1.csprojResolveAssemblyReference.cache
+H:\2410\ClassExercise\SpeakQuote1\SpeakQuote1\obj\Debug\SpeakQuote1.exe
+H:\2410\ClassExercise\SpeakQuote1\SpeakQuote1\obj\Debug\SpeakQuote1.pdb
